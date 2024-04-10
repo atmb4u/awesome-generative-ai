@@ -186,7 +186,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation.
 - [Devin](https://devin.ai/) - An autonomous AI software engineer by Cognition Labs.
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) - An autonomous agent designed to navigate the complexities of software engineering. #opensource
-- [Davika](https://github.com/stitionai/devika) - An agentic AI software engineer. #opensource
+- [Devika](https://github.com/stitionai/devika) - An agentic AI software engineer. #opensource
 
 ### Custom assistants
 
